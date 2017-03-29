@@ -1,0 +1,9 @@
+#nginx configuration 
+
+server {
+    server_name doca.example.com;
+
+    location / {
+        proxy_pass http://localhost:8081;
+    }
+}
