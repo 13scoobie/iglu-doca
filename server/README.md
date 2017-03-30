@@ -1,6 +1,6 @@
 # Nginx
 
-Place the nginx config file in `/etc/nginx/sites-available/doca.data.generalassemb.ly`
+Place the nginx config file in `/etc/nginx/sites-available/example.com`
 and create a simlink to activate it: 
 
 ```
